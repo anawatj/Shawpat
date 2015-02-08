@@ -5,10 +5,13 @@
  */
 package com.shawpat.controllers;
 
+import org.springframework.stereotype.Controller;
+
 /**
  *
  * @author Tao
  */
+@Controller
 public class HomeController {
     
 }
