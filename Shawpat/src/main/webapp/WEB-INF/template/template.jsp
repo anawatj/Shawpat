@@ -23,6 +23,7 @@
          <script type="text/javascript" src="<%=request.getContextPath()%>/resources/scripts/jqwidget/jqwidgets/globalization/globalize.js"></script>
           <script type="text/javascript" src="<%=request.getContextPath()%>/resources/scripts/jqwidget/jqwidgets/jqxbuttons.js"></script>
           <script type="text/javascript" src="<%=request.getContextPath()%>/resources/scripts/jqwidget/jqwidgets/jqxfileupload.js"></script>
+            <script type="text/javascript" src="<%=request.getContextPath()%>/resources/scripts/jqwidget/jqwidgets/jqxeditor.js"></script>
     </head>
     <body>
         <div>
